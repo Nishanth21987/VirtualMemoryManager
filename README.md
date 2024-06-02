@@ -32,3 +32,4 @@ Launches the application by creating an instance of VirtualMemoryInterface.
 Optimal Page Replacement Logic:
 Simulates optimal page replacement based on a reference string and frame count, displaying the memory frames' state after each access.
 The code offers a comprehensive simulation of virtual memory management, demonstrating page loading, replacement policies, TLB search, and EAT calculation.
+(NOTE:THIS CODE RUNS VERY EFFICIENTLY EXCEPT THE OPTIMAL PAGE REPLACEMENT SO THERE MAY BE ERRORS IN SORTING THE PAGES IN OPTIMAL REPLACEMENT)
